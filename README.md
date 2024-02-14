@@ -1,6 +1,7 @@
 
 # Read the Electronic Imaging 2024 paper
 
+https://github.com/alediehl/EI_2024_MusicVis/blob/main/EI_2024_LiveMusic.pdf
 
 # LiveMusicVis
 
