@@ -1,3 +1,7 @@
+
+# Read the Electronic Imaging 2024 paper
+
+
 # LiveMusicVis
 
 1. Clone this repo
