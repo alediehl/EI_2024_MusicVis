@@ -1,0 +1,5 @@
+Run backend locally
+- run main file: python main.py or do it directly from within the your IDE (pycharm for instance) to be able to debug
+Run frontend locally
+- npm run serve from within the frontend folder
+- go to http://localhost:8080/static/#/
